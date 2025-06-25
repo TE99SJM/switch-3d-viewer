@@ -6,7 +6,7 @@ This repository contains an interactive 3D viewer for the **Switch MonoDock v3**
 
 This project is **not open-source**.
 
-All contents in this repository, including 3D models, code, and visualizations, are the exclusive intellectual property of **[Your Name or Company]**.
+All contents in this repository, including 3D models, code, and visualizations, are the exclusive intellectual property of **Gaming Outdoorsmen LLC**.
 
 You may **not**:
 - Copy, reuse, or distribute the model or code
@@ -20,4 +20,4 @@ See [LICENSE.txt](./LICENSE.txt) for full terms.
 
 To request permission to use this model or embed the viewer, please contact:
 
-**[your email or website]**
+**gamingoutdoorsmen@gmail.com**
